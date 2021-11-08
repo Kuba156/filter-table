@@ -1,0 +1,17 @@
+.main-window {
+    width: 600px;
+}
+
+#search-window input {
+    margin: 10px;
+}
+
+#search-window input[type=text] {
+    width: 50%;
+}
+
+.card {
+    margin: auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
